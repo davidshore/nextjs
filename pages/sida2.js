@@ -8,7 +8,7 @@ import Link from "next/link";
 export default function Sida2() {
   return (
     <div>
-      <h2 className="text-xl">Sida2</h2>
+      <h2 className="text-xl">Sida11</h2>
     </div>
   );
 }
